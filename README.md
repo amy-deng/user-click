@@ -8,4 +8,4 @@
 * Python 2 or 3
 
 ## dataset(training & testing)
-* https://drive.google.com/drive/u/1/folders/1v7GpCAAFlWJFZHJ24PNR_9mo8ugX8Ifg
+* https://drive.google.com/drive/u/1/folders/1v7GpCAAFlWJFZHJ24PNR_9mo8ugX8Ifg (private)
